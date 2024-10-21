@@ -47,6 +47,7 @@ let feedback = '';
 }
 ```
 
-[Made for Davis Technical College Software Development Program](https://www.davistech.edu/)
 
 ![launchScreen](https://github.com/user-attachments/assets/bf08cd5c-0cda-4ff7-9971-9d8abe8a564d)
+
+[Check out other repositories]([https://www.davistech.edu/](https://github.com/Simithrel))
