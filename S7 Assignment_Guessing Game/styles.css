@@ -1,0 +1,33 @@
+body {
+    width: 60%;
+    margin-top: 20px;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: lightgray;
+    font-size: x-large;
+    font-family: sans-serif;
+}
+input {
+    font-size: x-large;
+}
+p{
+    padding: 3px;
+    font-size: x-large;
+}
+.tooBig{
+    background-color: pink;
+    color: blue;
+}
+.tooSmall{
+    background-color: lightblue;
+    color: blue;
+}
+.tooMany{
+    background: red;
+    color: black;
+}
+.justRight{
+    background-color: lightgreen;
+    color: green;
+}
