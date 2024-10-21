@@ -50,4 +50,4 @@ let feedback = '';
 
 ![launchScreen](https://github.com/user-attachments/assets/bf08cd5c-0cda-4ff7-9971-9d8abe8a564d)
 
-[Check out other repositories]([https://www.davistech.edu/](https://github.com/Simithrel))
+[Check out other repositories](https://github.com/Simithrel)
