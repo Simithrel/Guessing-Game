@@ -1,9 +1,9 @@
 # Guessing-Game
 ## This describes how to play the guessing game
-+ You get 10 guesses to try and get the right number
-  - A notification will pop up that will tell you if you have guessed right or wrong
-  - You may only enter in a numerical value into the guessing textbox
-+ guesses must be between 1 and 100
++ You get **10** guesses to try and get the right number
+  - *A notification will pop up* that will tell you if you have guessed right or wrong
+  - You may only enter in a *numerical value* into the guessing textbox
++ guesses must be between **1** and **100**
 
 sample line of code 
 
